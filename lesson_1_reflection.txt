@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    while comparing the changes of both files we can able see the changes.Like we can say which lines are changed and check that changed lines for bugs instead of checking all lines in the files for bug
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+   Say in an organization many people edit the same file so if we have access to history of all versions we able see what changed made by whome/after you changed/time of changed,etc., it help us to understand the project development with version control.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+	
+	By conidering the judgment of commit manual commit is efficient if the use has the knowledge of when to commit the changes but for user who is not clear about when to commit/forget to commit they can use automatic saving settings
+ 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    since we can able to commit multiple files it is easy for developer change the files that are related to one another and save them.but some times we need to commit specific files like in google docs since their not depend on other that is waste of memory
+
+How can you use the commands git log and git diff to view the history of files?
+
+	First moe to the repo folder/dict
+    git log - command can be use see the version of the file history
+    git diff - this command with two versions ids we can use compare their difference
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    By seeing its feature i am confident enough make the changes i want in the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    i am going to start a progect so i decided to use git .sinec my previous mini projects teach me a lot to get version control
