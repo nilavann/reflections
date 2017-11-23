@@ -7,14 +7,15 @@ What value do you think it offers?
 	directory where all files are saved
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+	by comparing the staging area with the repo we can see the changes and make sure our change and then commit it. 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+	Since branches make the copy of the head it is the recent version of code.So if we want to add/edit certain part of we can done in the branch so the master will be still runable.
 How do the diagrams help you visualize the branch structure?
-
+	visualization help me to understand the structure of the git clearly
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+	A new master with both changed has be created by mergining.since its parent is both the coin branch and previsious master.
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	for me its good to mergemanually is helpfull there many conditions were the comde may chenge for different thing so manual is best for small or own for group project it takes more discusssion.we can also use machine learning to make them better.
